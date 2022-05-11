@@ -1,0 +1,1 @@
+data class Card(val value: CardValue, val suit: CardSuit, val color: CardColor)
